@@ -1,4 +1,9 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50">
+</p>
+<h3 align="center">
+  Hi there 👋 
+</h3>
 
 <!--
 **sasoria/sasoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
