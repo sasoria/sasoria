@@ -1,4 +1,4 @@
-<h1 color="black">Astro contributions</h1>
+<p>Hi, I'm Sergio A. Arevalo Soria 👋</p>
 
 [![@sasoria Astro contributions](https://astro.badg.es/v2/contributor/sasoria.svg)](https://astro.badg.es/contributor/sasoria/)
 
